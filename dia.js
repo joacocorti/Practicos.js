@@ -145,3 +145,5 @@ var diaDeLaSemanaV3 = function(dia) {
 }
 
 console.log(diaDeLaSemanaV3(2));
+
+return 'hola wey';
